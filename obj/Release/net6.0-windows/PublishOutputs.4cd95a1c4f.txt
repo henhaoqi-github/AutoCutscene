@@ -1,0 +1,5 @@
+c:\Users\Administrator\Desktop\Genshin Auto Start\Genshin Auto Start.exe
+c:\Users\Administrator\Desktop\Genshin Auto Start\Genshin Auto Start.dll
+c:\Users\Administrator\Desktop\Genshin Auto Start\Genshin Auto Start.deps.json
+c:\Users\Administrator\Desktop\Genshin Auto Start\Genshin Auto Start.runtimeconfig.json
+c:\Users\Administrator\Desktop\Genshin Auto Start\Genshin Auto Start.pdb

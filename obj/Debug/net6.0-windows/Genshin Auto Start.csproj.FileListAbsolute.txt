@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\bin\Debug\net6.0-windows\Genshin Auto Start.exe
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\bin\Debug\net6.0-windows\Genshin Auto Start.deps.json
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\bin\Debug\net6.0-windows\Genshin Auto Start.runtimeconfig.json
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\bin\Debug\net6.0-windows\Genshin Auto Start.dll
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\bin\Debug\net6.0-windows\Genshin Auto Start.pdb
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.dll
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\refint\Genshin Auto Start.dll
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.pdb
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\Genshin Auto Start.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Work\Coding\Genshin Auto Start\obj\Debug\net6.0-windows\ref\Genshin Auto Start.dll
